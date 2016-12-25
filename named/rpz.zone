@@ -1,0 +1,629 @@
+$TTL 1D
+@	IN SOA	ns1.cydns.pw. root.cydns.pw. (
+									2016122501	; serial
+									3H		; refresh
+									15M		; retry
+									1W		; expiry
+									1D )		; minimum
+
+@	IN	NS	ns1.cydns.pw.
+
+
+
+;telegram
+telegram.org 						IN A 		219.76.4.4
+www.telegram.org 					IN A 		219.76.4.4
+desktop.telegram.org 					IN A 		219.76.4.4
+core.telegram.org 					IN A 		219.76.4.4
+updates.tdesktop.com 					IN A 		219.76.4.4
+web.telegram.org 					IN A 		219.76.4.4
+flora.web.telegram.org 					IN A 		219.76.4.4
+telegram.me 						IN A 		219.76.4.4
+www.telegram.m					 	IN A 		219.76.4.4
+
+;vimeo.com
+vimeo.com						IN A		219.76.4.4
+player.vimeo.com					IN A		219.76.4.4
+
+
+;tumblr
+tumblr.com 						IN A 		219.76.4.4
+*.tumblr.com 						IN A 		219.76.4.4
+*.assets.tumblr.com 					IN A 		219.76.4.4
+;GOOGLE
+www.chromium.org					IN A		219.76.4.4
+securetoken.googleapis.com 				IN A 		219.76.4.4
+firebasestorage.googleapis.com 				IN A 		219.76.4.4
+code.getmdl.io 						IN A 		219.76.4.4
+fonts.googleapis.com					IN A		219.76.4.4
+android.l.google.com					IN A		219.76.4.4
+android.clients.google.com				IN A		219.76.4.4
+www.google-analytics.com				IN A		219.76.4.4
+mtalk.google.com					IN A		219.76.4.4
+abc.xyz							IN A		219.76.4.4
+dl.google.com						IN A		219.76.4.4
+google.com						IN A		219.76.4.4
+gcr.io							IN A		219.76.4.4
+www.gcr.io						IN A		219.76.4.4
+com.google						IN A		219.76.4.4
+ingress.com                                             IN A            219.76.4.4
+
+*.android.com						IN A		219.76.4.4
+*.logger.com						IN A		219.76.4.4
+*.blogblog.com						IN A		219.76.4.4
+*.textcube.com						IN A		219.76.4.4
+*.blogspot.com						IN A		219.76.4.4
+*.chrome.com						IN A		219.76.4.4
+*.googlesource.com					IN A		219.76.4.4
+*.googlecode.com					IN A		219.76.4.4
+*.gmodules.com						IN A		219.76.4.4
+*.googleadservices.com					IN A		219.76.4.4
+
+
+*.gvt0.com						IN A		219.76.4.4
+*.gvt1.com						IN A		219.76.4.4
+*.gvt2.com						IN A		219.76.4.4
+*.gvt3.com						IN A		219.76.4.4
+
+;youtube
+youtu.be						IN A		219.76.4.4
+youtube.com						IN A		219.76.4.4
+*.ytimg.com						IN A		219.76.4.4
+*.youtu.be						IN A		219.76.4.4
+*.youtube.com						IN A		219.76.4.4
+*.googlevideo.com					IN A		219.76.4.4
+
+
+;gstaticStart
+fonts.gstatic.com					IN A		219.76.4.4
+*.ggpht.com						IN A		219.76.4.4
+*.gstatic.com						IN A		219.76.4.4
+
+;GoogleapisStart
+goo.gl							IN A		219.76.4.4
+g.co							IN A		219.76.4.4
+app.simplenote.com					IN A		219.76.4.4
+*.googleapis.com					IN A		219.76.4.4
+*.2mdn.net						IN A		219.76.4.4
+*.urchin.com						IN A		219.76.4.4
+*.feedburner.com					IN A		219.76.4.4
+*.golang.org						IN A		219.76.4.4
+*.panoramio.com						IN A		219.76.4.4
+*.recaptcha.net						IN A		219.76.4.4
+*.googleusercontent.com					IN A		219.76.4.4
+
+
+;GoogleChina
+translate.google.cn					IN A		219.76.4.4
+ditu.google.cn						IN A		219.76.4.4
+google.cn						IN A		219.76.4.4
+*.google.cn						IN A		219.76.4.4
+
+;facebook
+fb.me							IN A 		219.76.4.4
+messages-facebook.com					IN A		219.76.4.4
+facebook.net						IN A		219.76.4.4
+facebook.com						IN A		219.76.4.4
+fbcdn.net						IN A		219.76.4.4
+scontent.xx.fbcdn.net					IN A		219.76.4.4
+video.xx.fbcdn.net					IN A		219.76.4.4
+
+*.messages-facebook.com					IN A		219.76.4.4
+*.facebook.net						IN A		219.76.4.4
+*.facebook.com						IN A		219.76.4.4
+*.fbcdn.net 						IN A		219.76.4.4
+
+
+;instagram
+instagram.com						IN A		219.76.4.4
+cdninstagram.com					IN A		219.76.4.4
+*.instagram.com						IN A		219.76.4.4
+*.cdninstagram.com					IN A		219.76.4.4
+
+;onedrive
+onedrive.live.com					IN A		219.76.4.4
+*.onedrive.live.com					IN A		219.76.4.4
+
+;soundcloud
+sndcdn.com						IN A		219.76.4.4
+a-v2.sndcdn.com						IN A		219.76.4.4
+ec-media.sndcdn.com					IN A		219.76.4.4
+cf-media.sndcdn.com					IN A		219.76.4.4
+i1.sndcdn.com						IN A		219.76.4.4
+i2.sndcdn.com						IN A		219.76.4.4
+i3.sndcdn.com						IN A		219.76.4.4
+i4.sndcdn.com						IN A		219.76.4.4
+style.sndcdn.com					IN A		219.76.4.4
+va.sndcdn.com						IN A		219.76.4.4
+wis.sndcdn.com						IN A		219.76.4.4
+soundcloud.com						IN A		219.76.4.4
+a1.soundcloud.com					IN A		219.76.4.4
+api.soundcloud.com					IN A		219.76.4.4
+api-v2.soundcloud.com					IN A		219.76.4.4
+api-mobile.soundcloud.com				IN A		219.76.4.4
+api.soundcloud.com					IN A		219.76.4.4
+ec-media.soundcloud.com					IN A		219.76.4.4
+ec-rtmp-media.soundcloud.com				IN A		219.76.4.4
+eventgateway.soundcloud.com				IN A		219.76.4.4
+eventlogger.soundcloud.com				IN A		219.76.4.4
+m.soundcloud.com					IN A		219.76.4.4
+promoted.soundcloud.com					IN A		219.76.4.4
+visuals.soundcloud.com					IN A		219.76.4.4
+
+;twitter
+twitter.com						IN A		219.76.4.4
+www.twitter.com						IN A		219.76.4.4
+api.twitter.com						IN A		219.76.4.4
+mobile.twitter.com					IN A		219.76.4.4
+support.twitter.com					IN A		219.76.4.4
+upload.twitter.com					IN A		219.76.4.4
+tweetdeck.twitter.com					IN A		219.76.4.4
+tweetdeck.com						IN A		219.76.4.4
+syndication.twitter.com					IN A		219.76.4.4
+syndication-o.twitter.com				IN A		219.76.4.4
+cdn.syndication.twimg.com				IN A		219.76.4.4
+cdn.syndication.twitter.com				IN A		219.76.4.4
+cdn.api.twitter.com					IN A		219.76.4.4
+preview.cdn.twitter.com					IN A		219.76.4.4
+t.co							IN A		219.76.4.4
+twitpic.com						IN A		219.76.4.4
+tinypic.com						IN A		219.76.4.4
+twimg.com						IN A		219.76.4.4
+
+video.twimg.com						IN A		219.76.4.4
+*.twimg.com						IN A		219.76.4.4
+*.tinypic.com						IN A		219.76.4.4
+*.twitpic.com						IN A		219.76.4.4
+*.t.co							IN A		219.76.4.4
+*.tweetdeck.com						IN A		219.76.4.4
+*.twitter.com						IN A		219.76.4.4
+
+;wikipedia
+wikipedia.org						IN A		219.76.4.4
+wikipedia.org						IN A		219.76.4.4
+*.wikipedia.org						IN A		219.76.4.4
+
+;akamaihd
+akamaihd.net						IN A		219.76.4.4
+igcdn-photos-a-a.akamaihd.net				IN A		219.76.4.4
+igcdn-photos-b-a.akamaihd.net				IN A		219.76.4.4
+igcdn-photos-c-a.akamaihd.net				IN A		219.76.4.4
+igcdn-photos-d-a.akamaihd.net				IN A		219.76.4.4
+igcdn-photos-e-a.akamaihd.net				IN A		219.76.4.4
+igcdn-photos-f-a.akamaihd.net				IN A		219.76.4.4
+igcdn-photos-g-a.akamaihd.net				IN A		219.76.4.4
+igcdn-photos-h-a.akamaihd.net				IN A		219.76.4.4
+*.akamaihd.net						IN A		219.76.4.4
+
+;dropbox
+dropbox.com						IN A		219.76.4.4
+www.dropbox.com						IN A		219.76.4.4
+forums.dropbox.com					IN A		219.76.4.4
+dl-client3.dropbox.com					IN A		219.76.4.4
+client1.dropbox.com					IN A		219.76.4.4
+d.dropbox.com						IN A		219.76.4.4
+*.dropbox.com						IN A		219.76.4.4
+
+;xda
+cdn.www.xda-developers.com 				IN A 		219.76.4.4
+cdn.xda-developers.com 					IN A 		219.76.4.4
+cdn1.xda-developers.com 				IN A 		219.76.4.4
+cdn2.xda-developers.com 				IN A 		219.76.4.4
+cdn3.xda-developers.com 				IN A 		219.76.4.4
+cdn4.xda-developers.com 				IN A 		219.76.4.4
+cdn-img.xda-developers.com 				IN A 		219.76.4.4
+cdn-www.xda-developers.com 				IN A 		219.76.4.4
+cs261.wac.edgecastcdn.net 				IN A 		219.76.4.4
+forum.xda-developers.com 				IN A 		219.76.4.4
+m.servebom.com 						IN A 		219.76.4.4
+tags.bkrtx.com 						IN A 		219.76.4.4
+wac.8244.edgecastcdn.net 				IN A 		219.76.4.4
+www.xda-developers.com 					IN A 		219.76.4.4
+xda-developers.com 					IN A 		219.76.4.4
+
+
+;Box.com
+app.box.com						IN A            219.76.4.4
+box.com                                                 IN A            219.76.4.4
+m.box.com 	                                        IN A            219.76.4.4
+support.box.com                                         IN A            219.76.4.4
+www.box.com                                             IN A            219.76.4.4
+www.box.net                                             IN A            219.76.4.4
+
+play.itunes.apple.com					IN A            219.76.4.4
+upp.itunes.apple.com					IN A            219.76.4.4
+client-api.itunes.apple.com				IN A            219.76.4.4
+su.itunes.apple.com					IN A            219.76.4.4
+se.itunes.apple.com					IN A            219.76.4.4
+
+init.itunes.apple.com					IN A		219.76.4.4
+itunes.apple.com					IN A		219.76.4.4
+
+search.itunes.apple.com					IN A		219.76.4.4
+
+radio.itunes.apple.com					IN A		219.76.4.4
+radio-services.itunes.apple.com				IN A		219.76.4.4
+radio-activity.itunes.apple.com				IN A		219.76.4.4
+
+streamingaudio.itunes.apple.com				IN A		219.76.4.4
+aod.itunes.apple.com					IN A		219.76.4.4
+iosapps.itunes.apple.com				IN A		219.76.4.4
+osxapps.itunes.apple.com				IN A		219.76.4.4
+
+;apple Spotify CDN
+i.scdn.co						IN A		219.76.4.4
+p.scdn.co						IN A		219.76.4.4
+r.scdn.co						IN A		219.76.4.4
+t.scdn.co						IN A		219.76.4.4
+u.scdn.co						IN A		219.76.4.4
+audio-ec.spotify.com					IN A		219.76.4.4
+
+;wordpress
+videopress.com						IN A		219.76.4.4
+s.gravatar.com						IN A		219.76.4.4
+1.gravatar.com						IN A		219.76.4.4
+2.gravatar.com						IN A		219.76.4.4
+lb.gravatar.com 			                IN A		219.76.4.4
+secure.gravatar.com			                IN A		219.76.4.4
+botd2.wordpress.com			                IN A		219.76.4.4
+r-login.wordpress.com      		                IN A 		219.76.4.4
+s.stats.wordpress.com      		                IN A 		219.76.4.4
+s3.wordpress.com 	        		        IN A 		219.76.4.4
+wordpress.com 	        		                IN A 		219.76.4.4
+s1.wordpress.com 	        		        IN A		219.76.4.4
+s2.wordpress.com 	        		        IN A 		219.76.4.4
+s.wordpress.com	        		                IN A		219.76.4.4
+lb.wordpress.com	     		                IN A 		219.76.4.4
+wpcom.wordpress.com	        		        IN A 		219.76.4.4
+en.wordpress.com 		 		        IN A  		219.76.4.4
+zh.wordpress.com 	        		        IN A 		219.76.4.4
+zh-cn.wordpress.com	        		        IN A 		219.76.4.4
+zh-sg.wordpress.com 	        		        IN A 		219.76.4.4
+lucifr.wordpress.com      		                IN A 		219.76.4.4
+dashboard.wordpress.com 			        IN A		219.76.4.4
+en.blog.wordpress.com 			                IN A		219.76.4.4
+en.forums.wordpress.com 			        IN A		219.76.4.4
+forums.wordpress.com 			                IN A		219.76.4.4
+stats.wordpress.com 			                IN A		219.76.4.4
+s.wordpress.org	        		                IN A		219.76.4.4
+s0.wp.com	        		                IN A		219.76.4.4
+s1.wp.com	        		                IN A		219.76.4.4
+s2.wp.com 	        		                IN A 		219.76.4.4
+i0.wp.com		     		                IN A		219.76.4.4
+i1.wp.com		     		                IN A		219.76.4.4
+i2.wp.com		     		                IN A		219.76.4.4
+s.w.org      		        		        IN A 		219.76.4.4
+
+;steam
+cdn.steamcommunity.com					IN A		219.76.4.4
+cdn.steampowered.com					IN A		219.76.4.4
+cdn.store.steampowered.com				IN A		219.76.4.4
+storefront.steampowered.com				IN A		219.76.4.4
+cdn.akamai.steamstatic.com				IN A		219.76.4.4
+steamcommunity-a.akamaihd.net				IN A		219.76.4.4
+
+;origin
+origin-a.akamaihd.net					IN A		219.76.4.4
+
+;mega
+mega.nz							IN A		219.76.4.4
+g.cdn1.mega.co.nz					IN A		219.76.4.4
+
+;Amazon AWS
+ap-northeast-1.console.aws.amazon.com	                IN A		219.76.4.4
+ap-southeast-1.console.aws.amazon.com	                IN A 		219.76.4.4
+ap-southeast-2.console.aws.amazon.com	                IN A 		219.76.4.4
+aws.amazon.com 	                	                IN A 		219.76.4.4
+console.aws.amazon.com 	               	                IN A 		219.76.4.4
+eu-central-1.console.aws.amazon.com	                IN A 		219.76.4.4
+eu-west-1.console.aws.amazon.com 	                IN A 		219.76.4.4
+s3.amazonaws.com 	                	        IN A 		219.76.4.4
+s3-ap-northeast-1.amazonaws.com	                        IN A 		219.76.4.4
+s3-ap-southeast-1.amazonaws.com 	                IN A 		219.76.4.4
+s3-ap-southeast-2.amazonaws.com 	                IN A 		219.76.4.4
+s3-console-us-standard.console.aws.amazon.com	        IN A 		219.76.4.4
+s3-eu-central-1.amazonaws.com 	                        IN A 		219.76.4.4
+s3-eu-west-1.amazonaws.com 	                        IN A 		54.2219.76.4.4
+s3-sa-east-1.amazonaws.com 	                        IN A 		219.76.4.4
+s3-us-west-1.amazonaws.com 	                        IN A 		219.76.4.4
+s3-us-west-2.amazonaws.com 	                        IN A 		219.76.4.4
+sa-east-1.console.aws.amazon.com 	                IN A 		219.76.4.4
+us-west-1.console.aws.amazon.com 	                IN A 		219.76.4.4
+us-west-2.console.aws.amazon.com 	                IN A 		219.76.4.4
+github-cloud.s3.amazonaws.com 	                        IN A 		219.76.4.4
+github-com.s3.amazonaws.com 	                        IN A 		219.76.4.4
+
+;Archive 
+archive.org                                             IN A            219.76.4.4
+web.archive.org                                         IN A            219.76.4.4
+
+;DuckDuckGo
+duckduckgo.com                                          IN A            219.76.4.4
+www.duckduckgo.com                                      IN A            219.76.4.4
+ac.duckduckgo.com                                       IN A            219.76.4.4
+icons.duckduckgo.com                                    IN A            219.76.4.4
+images.duckduckgo.com                                   IN A            219.76.4.4
+help.duckduckgo.com                                     IN A            219.76.4.4
+
+;Imgur
+imgur.com                                               IN A            219.76.4.4
+www.imgur.com                                           IN A            219.76.4.4
+i.imgur.com                                             IN A            219.76.4.4
+s.imgur.com                                             IN A            219.76.4.4
+
+;cloudflare
+
+www.cloudflare.com					IN A		219.76.4.4
+
+;flickr
+
+ac4.farm4.staticflickr.com				IN A		219.76.4.4
+adjax.flickr.yahoo.com					IN A		219.76.4.4
+api.flickr.com						IN A		219.76.4.4
+bf1.farm3.staticflickr.com				IN A		219.76.4.4
+bf1.farm6.staticflickr.com				IN A		219.76.4.4
+bf1.farm7.staticflickr.com				IN A		219.76.4.4
+c5.ah.yahoo.com						IN A		219.76.4.4
+content.yieldmanager.edgesuite.net			IN A		219.76.4.4
+d.yimg.com						IN A		219.76.4.4
+de.yahoo.com						IN A		219.76.4.4
+e.yimg.com						IN A		219.76.4.4
+edit.yahoo.com						IN A		219.76.4.4
+farm1.staticflickr.com					IN A		219.76.4.4
+farm2.staticflickr.com					IN A		219.76.4.4
+farm3.staticflickr.com					IN A		219.76.4.4
+farm4.staticflickr.com					IN A		219.76.4.4
+farm5.staticflickr.com					IN A		219.76.4.4
+farm6.staticflickr.com					IN A		219.76.4.4
+farm7.staticflickr.com					IN A		219.76.4.4
+flickr.com						IN A		219.76.4.4
+l.yimg.com						IN A		219.76.4.4
+m.flickr.com						IN A		219.76.4.4
+www.flickr.com						IN A		219.76.4.4
+
+
+;google
+
+*.ingress.com                                           IN A            219.76.4.4
+*.appspot.com						IN A		219.76.4.4
+*.google.com						IN A		219.76.4.4
+*.google.com.hk						IN A		219.76.4.4
+*.google.co.jp						IN A		219.76.4.4
+*.google.ac						IN A		219.76.4.4
+*.google.ad						IN A		219.76.4.4
+*.google.ae						IN A		219.76.4.4
+*.google.af						IN A		219.76.4.4
+*.google.ag						IN A		219.76.4.4
+*.google.al						IN A		219.76.4.4
+*.google.am						IN A		219.76.4.4
+*.google.as						IN A		219.76.4.4
+*.google.at						IN A		219.76.4.4
+*.google.az						IN A		219.76.4.4
+*.google.ba						IN A		219.76.4.4
+*.google.be						IN A		219.76.4.4
+*.google.bf						IN A		219.76.4.4
+*.google.bg						IN A		219.76.4.4
+*.google.bi						IN A		219.76.4.4
+*.google.bj						IN A		219.76.4.4
+*.google.bs						IN A		219.76.4.4
+*.google.bt						IN A		219.76.4.4
+*.google.by						IN A		219.76.4.4
+*.google.ca						IN A		219.76.4.4
+*.google.cat						IN A		219.76.4.4
+*.google.cc						IN A		219.76.4.4
+*.google.cd						IN A		219.76.4.4
+*.google.cf						IN A		219.76.4.4
+*.google.cg						IN A		219.76.4.4
+*.google.ch						IN A		219.76.4.4
+*.google.ci						IN A		219.76.4.4
+*.google.cl						IN A		219.76.4.4
+*.google.cm						IN A		219.76.4.4
+*.google.co.ao						IN A		219.76.4.4
+*.google.co.bw						IN A		219.76.4.4
+*.google.co.ck						IN A		219.76.4.4
+*.google.co.cr						IN A		219.76.4.4
+*.google.co.hu						IN A		219.76.4.4
+*.google.co.id						IN A		219.76.4.4
+*.google.co.il						IN A		219.76.4.4
+*.google.co.im						IN A		219.76.4.4
+*.google.co.in						IN A		219.76.4.4
+*.google.co.je						IN A		219.76.4.4
+*.google.co.ke						IN A		219.76.4.4
+*.google.co.kr						IN A		219.76.4.4
+*.google.co.ls						IN A		219.76.4.4
+*.google.co.ma						IN A		219.76.4.4
+*.google.co.mz						IN A		219.76.4.4
+*.google.co.nz						IN A		219.76.4.4
+*.google.co.th						IN A		219.76.4.4
+*.google.co.tz						IN A		219.76.4.4
+*.google.co.ug						IN A		219.76.4.4
+*.google.co.uk						IN A		219.76.4.4
+*.google.co.uz						IN A		219.76.4.4
+*.google.co.ve						IN A		219.76.4.4
+*.google.co.vi						IN A		219.76.4.4
+*.google.co.za						IN A		219.76.4.4
+*.google.co.zm						IN A		219.76.4.4
+*.google.co.zw						IN A		219.76.4.4
+*.google.com.af						IN A		219.76.4.4
+*.google.com.ag						IN A		219.76.4.4
+*.google.com.ai						IN A		219.76.4.4
+*.google.com.ar						IN A		219.76.4.4
+*.google.com.au						IN A		219.76.4.4
+*.google.com.bd						IN A		219.76.4.4
+*.google.com.bh						IN A		219.76.4.4
+*.google.com.bn						IN A		219.76.4.4
+*.google.com.bo						IN A		219.76.4.4
+*.google.com.br						IN A		219.76.4.4
+*.google.com.by						IN A		219.76.4.4
+*.google.com.bz						IN A		219.76.4.4
+*.google.com.cn						IN A		219.76.4.4
+*.google.com.co						IN A		219.76.4.4
+*.google.com.cu						IN A		219.76.4.4
+*.google.com.cy						IN A		219.76.4.4
+*.google.com.do						IN A		219.76.4.4
+*.google.com.ec						IN A		219.76.4.4
+*.google.com.eg						IN A		219.76.4.4
+*.google.com.et						IN A		219.76.4.4
+*.google.com.fj						IN A		219.76.4.4
+*.google.com.ge						IN A		219.76.4.4
+*.google.com.gh						IN A		219.76.4.4
+*.google.com.gi						IN A		219.76.4.4
+*.google.com.gr						IN A		219.76.4.4
+*.google.com.gt						IN A		219.76.4.4
+*.google.com.iq						IN A		219.76.4.4
+*.google.com.jm						IN A		219.76.4.4
+*.google.com.jo						IN A		219.76.4.4
+*.google.com.kh						IN A		219.76.4.4
+*.google.com.kw						IN A		219.76.4.4
+*.google.com.lb						IN A		219.76.4.4
+*.google.com.ly						IN A		219.76.4.4
+*.google.com.mm						IN A		219.76.4.4
+*.google.com.mt						IN A		219.76.4.4
+*.google.com.mx						IN A		219.76.4.4
+*.google.com.my						IN A		219.76.4.4
+*.google.com.na						IN A		219.76.4.4
+*.google.com.nf						IN A		219.76.4.4
+*.google.com.ng						IN A		219.76.4.4
+*.google.com.ni						IN A		219.76.4.4
+*.google.com.np						IN A		219.76.4.4
+*.google.com.nr						IN A		219.76.4.4
+*.google.com.om						IN A		219.76.4.4
+*.google.com.pa						IN A		219.76.4.4
+*.google.com.pe						IN A		219.76.4.4
+*.google.com.pg						IN A		219.76.4.4
+*.google.com.ph						IN A		219.76.4.4
+*.google.com.pk						IN A		219.76.4.4
+*.google.com.pl						IN A		219.76.4.4
+*.google.com.pr						IN A		219.76.4.4
+*.google.com.py						IN A		219.76.4.4
+*.google.com.qa						IN A		219.76.4.4
+*.google.com.ru						IN A		219.76.4.4
+*.google.com.sa						IN A		219.76.4.4
+*.google.com.sb						IN A		219.76.4.4
+*.google.com.sg						IN A		219.76.4.4
+*.google.com.sl						IN A		219.76.4.4
+*.google.com.sv						IN A		219.76.4.4
+*.google.com.tj						IN A		219.76.4.4
+*.google.com.tn						IN A		219.76.4.4
+*.google.com.tr						IN A		219.76.4.4
+*.google.com.tw						IN A		219.76.4.4
+*.google.com.ua						IN A		219.76.4.4
+*.google.com.uy						IN A		219.76.4.4
+*.google.com.vc						IN A		219.76.4.4
+*.google.com.ve						IN A		219.76.4.4
+*.google.com.vn						IN A		219.76.4.4
+*.google.cv						IN A		219.76.4.4
+*.google.cz						IN A		219.76.4.4
+*.google.de						IN A		219.76.4.4
+*.google.dj						IN A		219.76.4.4
+*.google.dk						IN A		219.76.4.4
+*.google.dm						IN A		219.76.4.4
+*.google.dz						IN A		219.76.4.4
+*.google.ee						IN A		219.76.4.4
+*.google.es						IN A		219.76.4.4
+*.google.eus						IN A		219.76.4.4
+*.google.fi						IN A		219.76.4.4
+*.google.fm						IN A		219.76.4.4
+*.google.fr						IN A		219.76.4.4
+*.google.frl						IN A		219.76.4.4
+*.google.ga						IN A		219.76.4.4
+*.google.gal						IN A		219.76.4.4
+*.google.ge						IN A		219.76.4.4
+*.google.gg						IN A		219.76.4.4
+*.google.gl						IN A		219.76.4.4
+*.google.gm						IN A		219.76.4.4
+*.google.gp						IN A		219.76.4.4
+*.google.gr						IN A		219.76.4.4
+*.google.gy						IN A		219.76.4.4
+*.google.hk						IN A		219.76.4.4
+*.google.hn						IN A		219.76.4.4
+*.google.hr						IN A		219.76.4.4
+*.google.ht						IN A		219.76.4.4
+*.google.hu						IN A		219.76.4.4
+*.google.ie						IN A		219.76.4.4
+*.google.im						IN A		219.76.4.4
+*.google.in						IN A		219.76.4.4
+*.google.info						IN A		219.76.4.4
+*.google.iq						IN A		219.76.4.4
+*.google.ir						IN A		219.76.4.4
+*.google.is						IN A		219.76.4.4
+*.google.it						IN A		219.76.4.4
+*.google.it.ao						IN A		219.76.4.4
+*.google.je						IN A		219.76.4.4
+*.google.jo						IN A		219.76.4.4
+*.google.jobs						IN A		219.76.4.4
+*.google.jp						IN A		219.76.4.4
+*.google.kg						IN A		219.76.4.4
+*.google.ki						IN A		219.76.4.4
+*.google.kz						IN A		219.76.4.4
+*.google.la						IN A		219.76.4.4
+*.google.li						IN A		219.76.4.4
+*.google.lk						IN A		219.76.4.4
+*.google.lt						IN A		219.76.4.4
+*.google.lu						IN A		219.76.4.4
+*.google.lv						IN A		219.76.4.4
+*.google.md						IN A		219.76.4.4
+*.google.me						IN A		219.76.4.4
+*.google.mg						IN A		219.76.4.4
+*.google.mk						IN A		219.76.4.4
+*.google.ml						IN A		219.76.4.4
+*.google.mn						IN A		219.76.4.4
+*.google.ms						IN A		219.76.4.4
+*.google.mu						IN A		219.76.4.4
+*.google.mv						IN A		219.76.4.4
+*.google.mw						IN A		219.76.4.4
+*.google.ne						IN A		219.76.4.4
+*.google.ne.jp						IN A		219.76.4.4
+*.google.net						IN A		219.76.4.4
+*.google.ng						IN A		219.76.4.4
+*.google.nl						IN A		219.76.4.4
+*.google.no						IN A		219.76.4.4
+*.google.nr						IN A		219.76.4.4
+*.google.nu						IN A		219.76.4.4
+*.google.off.ai						IN A		219.76.4.4
+*.google.pk						IN A		219.76.4.4
+*.google.pl						IN A		219.76.4.4
+*.google.pn						IN A		219.76.4.4
+*.google.ps						IN A		219.76.4.4
+*.google.pt						IN A		219.76.4.4
+*.google.ro						IN A		219.76.4.4
+*.google.rs						IN A		219.76.4.4
+*.google.ru						IN A		219.76.4.4
+*.google.rw						IN A		219.76.4.4
+*.google.sc						IN A		219.76.4.4
+*.google.se						IN A		219.76.4.4
+*.google.sh						IN A		219.76.4.4
+*.google.si						IN A		219.76.4.4
+*.google.sk						IN A		219.76.4.4
+*.google.sm						IN A		219.76.4.4
+*.google.sn						IN A		219.76.4.4
+*.google.so						IN A		219.76.4.4
+*.google.sr						IN A		219.76.4.4
+*.google.st						IN A		219.76.4.4
+*.google.td						IN A		219.76.4.4
+*.google.tel						IN A		219.76.4.4
+*.google.tg						IN A		219.76.4.4
+*.google.tk						IN A		219.76.4.4
+*.google.tl						IN A		219.76.4.4
+*.google.tm						IN A		219.76.4.4
+*.google.tn						IN A		219.76.4.4
+*.google.to						IN A		219.76.4.4
+*.google.tt						IN A		219.76.4.4
+*.google.ua						IN A		219.76.4.4
+*.google.us						IN A		219.76.4.4
+*.google.uz						IN A		219.76.4.4
+*.google.vg						IN A		219.76.4.4
+*.google.vu						IN A		219.76.4.4
+*.google.ws						IN A		219.76.4.4
+
+; Disqus Start
+
+disqus.com    						IN A    	219.76.4.4
+www.disqus.com						IN A    	219.76.4.4
+blog.disqus.com						IN A    	219.76.4.4
+help.disqus.com    					IN A		219.76.4.4
+content.disqus.com					IN A    	219.76.4.4
+referrer.disqus.com    					IN A    	219.76.4.4
+apkpure.disqus.com    					IN A    	219.76.4.4
+*.disqus.com						IN A		219.76.4.4
+; Disqus End
